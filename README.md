@@ -10,7 +10,7 @@ Additionally, the project includes a form to collect the user's information with
 
 Requirements:
 - Dynamically creating form elements depending upon the answer of the last question
-- The form elements for the questionnaire MUST be <select><option> elements
+- The form elements for the questionnaire must be <select><option> elements
 - At least 2 choices for each selection
 - A depth of 3 different questions
 - Print out the final choices to the screen
