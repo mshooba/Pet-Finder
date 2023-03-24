@@ -6,7 +6,7 @@ Create a dynamic form using select pull-down elements.
 
 The project is a web page that contains a dynamic form with select pull-down elements. Once the user selects the desired option, the script will dynamically create another pull-down element whose contents will depend upon the visitor's first choice. This process continues for three levels of choices, and then the user's final choices will be printed out to the screen. 
 
-Additionally, the project includes a form to collect the user's information with JavaScript validation, the ability for the user to start over at any time, and the use of both cookies and local storage to hold the user's information. The topic of the form is up to the developer's discretion. 
+Additionally, the project includes a form to collect the user's information with JavaScript validation, the ability for the user to start over at any time, and the use of both cookies and local storage to hold the user's information. 
 
 Requirements:
 - Dynamically creating form elements depending upon the answer of the last question
